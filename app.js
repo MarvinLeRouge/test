@@ -2,4 +2,4 @@ function hello(name) {
     console.log("Hello " + name)
 }
 
-hello("Motherfucker")
+hello("Motherfucker") 
